@@ -7,6 +7,3 @@ Instrucitons:
 1. First run CAI.m to create Cai's method processed file.
 2. Then run test_cnn.py to perform the denoising process.
 
-More models will be added.
-
-Last Update: Dec 12, 2017
