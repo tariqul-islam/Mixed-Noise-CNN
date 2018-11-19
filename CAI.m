@@ -11,7 +11,7 @@ cai_save_name = 'butter_sign.mat'; %the name of data after Cai's method
 gauss_sigma = 20/255; %sigma = 20;
 salt_pepper = 0.30; %30%
 rvin = 0.00;
-is_rvin = 0; %set to 1 for AMF+ACWMF, 1 for Cai
+is_rvin = 0; %set to 1 for AMF+ACWMF, 0 for Cai
 
 beta=0.00002;
 r=0;
